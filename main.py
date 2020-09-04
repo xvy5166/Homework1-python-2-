@@ -22,7 +22,7 @@ elif grade1 == "C+":
   print(f"Grade point for course 1 is: 2.33")
 elif grade1 == "C":
   gradepoint1 = 2.0
-  print(f"Grade point for course1 is: 2.0")
+  print(f"Grade point for course 1 is: 2.0")
 elif grade1 == "D":
   gradepoint1 = 1.0
   print(f"Grade point for course 1 is: 1.0")
